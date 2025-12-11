@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your app theme primary color → used for notification background -->
+    <color name="notification_color">#000000</color>
+</resources>
